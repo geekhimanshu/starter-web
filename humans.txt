@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Himanshu Ranjan -- Senior Software Developer -- tweetByHimanshu
 
 # THANKS
 
